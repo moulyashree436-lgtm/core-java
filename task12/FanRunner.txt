@@ -1,0 +1,10 @@
+class FanRunner {
+public static void main(String[] args) {
+Fan.checkFanIsOnOrOff();
+Fan.turnOnFan();
+Fan.checkFanIsOnOrOff();
+Fan.incSpeed();
+int currentSpeed = Fan.getCurrentSpeed();
+System.out.println("Current Speed is : " + currentSpeed);
+}
+}
