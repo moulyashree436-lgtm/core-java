@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class SwiggyRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Swiggy.openApp();
 }
 }

@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class SpotifyRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Spotify.openApp();
 }
 }

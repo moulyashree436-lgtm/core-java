@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class FigmaRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Figma.openApp();
 }
 }

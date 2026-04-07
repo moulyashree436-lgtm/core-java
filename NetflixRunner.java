@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class NetflixRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Netflix.openApp();
 }
 }

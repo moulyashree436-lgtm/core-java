@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class TwitterRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Twitter.openApp();
 }
 }

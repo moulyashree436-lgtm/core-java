@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class FacebookRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Facebook.openApp();
 }
 }

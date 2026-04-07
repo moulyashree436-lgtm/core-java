@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class WhatsAppRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+WhatsApp.openApp();
 }
 }

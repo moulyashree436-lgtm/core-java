@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class EvernoteRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Evernote.openApp();
 }
 }

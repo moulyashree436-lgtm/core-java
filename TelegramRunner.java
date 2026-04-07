@@ -1,5 +1,5 @@
-class ZomatoRunner {
+class TelegramRunner {
 public static void main(String[] args) {
-Zomato.openApp();
+Telegram.openApp();
 }
 }
